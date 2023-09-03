@@ -40,7 +40,7 @@ Key features of this project include:
 
 - **Ease of Use:** The program is designed to be user-friendly, with clear instructions and an intuitive interface.
 
-![Alt text](<sample outputs/runio.png>)
+    ![Alt text](<sample outputs/runio.png>)
 
 This project serves as an educational tool for understanding barcode generation, MIPS assembly programming, and software development processes. It showcases how low-level programming languages like MIPS can be utilized for practical applications such as barcode generation.
 
@@ -51,7 +51,7 @@ To run this barcode generator, you will need the following:
 
 - In the settings menu in MARS, enable "Assemble all files in directory" and "Initialize Program Counter to global "main" if defined" options.
 
-![Alt text](image.png)
+    ![Alt text](image.png)
 
 - Do not delete the "source.bmp" file in "io files" directory. 
 
